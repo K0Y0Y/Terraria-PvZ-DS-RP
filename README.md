@@ -1,12 +1,12 @@
-# Zombies from PvZ DS
-
-(WIP) Changes some zombies (subject to change) and the music with some from PvZ DS. It also changes the bestiary to add the description from the original PvZ suburban almanac.
-
 <div align="center">
   <a href="https://github.com/K0Y0Y/Terraria-PvZ-DS-RP.git">
     <img src="Content/Images/Logo.png" alt="Logo">
   </a>
 </div>
+
+# Zombies from PvZ DS
+
+(WIP) Changes some zombies (subject to change) and the music with some from PvZ DS. It also changes the bestiary to add the description from the original PvZ suburban almanac.
 
 ## Installation
 
