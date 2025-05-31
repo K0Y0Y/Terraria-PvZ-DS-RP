@@ -1,9 +1,9 @@
 {
     "Name": "Zombies from PvZ: DS version",
     "Author": "K0Y0Y",
-    "Description": "Changes some zombies with some from PvZ DS (WIP). List complete on the Steam workshop page.",
+    "Description": "EN: Changes the zombies for some zombies from PvZ DS version (WIP).\nES: Cambia los zombies por los de la versión de PvZ DS",
     "Version": {
-        "major": 1,
-        "minor": 0
+        "major": 0,
+        "minor": 999
     }
 }

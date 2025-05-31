@@ -1,40 +1,56 @@
 ﻿Key,Translation
 NPCName.ArmedTorchZombie,Zombie
-NPCName.ArmedZombie,Zombi abanderado
+NPCName.ArmedZombie,Zombi Abanderado
 NPCName.ArmedZombieCenx,Zombie
 NPCName.ArmedZombieEskimo,Zombictor
-NPCName.ArmedZombiePincussion,Zombie
-NPCName.ArmedZombieSlimed,Zombie
-NPCName.ArmedZombieSwamp,Zombistein
-NPCName.ArmedZombieTwiggy,Zombie
+NPCName.ArmedZombiePincussion,Zombie Yeti
+NPCName.ArmedZombieSlimed,Zombie Catapulta
+NPCName.ArmedZombieSwamp,Ladder Zombie
+NPCName.ArmedZombieTwiggy,Zombi Saltador de Pértiga
 NPCName.BaldZombie,Zombidito
-NPCName.FemaleZombie,Zombie caracubo
-NPCName.PincushionZombie,Zombie portero
-NPCName.SlimedZombie,Zombie buzo
-NPCName.SwampZombie,Zombie caraladrillo
+NPCName.FemaleZombie,Zombie Caracubo
+NPCName.PincushionZombie,Zombie Portero
+NPCName.SlimedZombie,Zombie Beisbolistas
+NPCName.SwampZombie,Zombie Basurero
 NPCName.TorchZombie,Zombie
-NPCName.TwiggyZombie,Zombie sin globo
+NPCName.TwiggyZombie,Zombie sin Globo
+NPCName.Harpy,Zombie con Globo
+NPCName.UmbrellaSlime,Zombie Saltarín
 NPCName.Zombie,Zombie
 NPCName.ZombieDoctor,Zombie
-NPCName.ZombieEskimo,Zombi de bobsleigh
-NPCName.ZombieMushroom,Zombie lanzaguisantes
-NPCName.ZombieMushroomHat,Zombie jalapeño
+NPCName.ZombieEskimo,Zombi de Bobsleigh
+NPCName.ZombieMushroom,Zombie Lanzaguisantes
+NPCName.ZombieMushroomHat,Zombie Jalapeño
 NPCName.ZombiePixie,Zombie
-NPCName.ZombieRaincoat,Zombie playero
+NPCName.ZombieRaincoat,Zombie Playero
 NPCName.ZombieSuperman,Zombie
 NPCName.ZombieSweater,Zombie
 NPCName.ZombieXmas,Zombie
-NPCName.Eyezor,Zombie guisantralladora
-NPCName.TheGroom,Zombie bailón
-NPCName.TheBride,Zombie extra
-NPCName.DoctorBones,Zombie Yeti
-NPCName.Drippler,Zombie colga'o con globo
-NPCName.BloodZombie,Zombie con delfín
-NPCName.UndeadMiner,Zombie picado
-NPCName.Clown,Zombie con cajita
+NPCName.Eyezor,Zombie Guisantralladora
+NPCName.TheGroom,Zombie Bailón
+NPCName.TheBride,Zombie Extra
+NPCName.DoctorBones,Zombie Nuez
+NPCName.Drippler,Zombie Colga'o con Globo
+NPCName.BloodZombie,Zombie con Delfín
+NPCName.UndeadMiner,Zombie Picado
+NPCName.Clown,Zombie con Cajita
 NPCName.EyeofCthulhu,Dr. Zombie
-NPCName.ServantofCthulhu,Bola de fuego
-ItemName.SuspiciousLookingEye,La venganza del Dr. Zombie
-ItemTooltip.SuspiciousLookingEye,Invoca al Dr. Zombie. ""Preparados... Listos... ¡A PLANTAR!""
-ItemName.EyeofCthulhuMasterTrophy,Trofeo del Dr. Zombie
+NPCName.ServantofCthulhu,Cabeza de Zombie
+NPCName.Shark,Zombie Buzo
+ItemName.SuspiciousLookingEye,Bandera del Último Batallón de aspecto sospechoso (La venganza del Dr. Zombie)
+ItemTooltip.SuspiciousLookingEye,"Invoca al Dr. Zombie. \n ""Preparados... Listos... ¡A PLANTAR!"""
+ItemName.EyeofCthulhuMasterTrophy,Reliquia del Dr. Zombie
+ItemName.EyeofCthulhuTrophy,Trofeo del Dr. Zombie
 ItemName.EyeMask,Máscara del Dr. Zombie
+ItemName.EyeOfCthulhuPetItem,Rabo de Gato
+ItemTooltip.EyeOfCthulhuPetItem,Invoca a un Rabo de Gato de mascota
+BuffName.EyeOfCthulhuPet,Rabo de Gato
+BuffDescription.EyeOfCthulhuPet,"""¡Guau!"" ladra Rabo de gato ""Grrr... ¡Guau, guau! ... Me niego a que me encasillen de esa manera."""
+ItemName.EoCShield,Escudo de Explotanuez
+ItemTooltip.EoCShield,Las nueces tienen caparazones duros que pueden ser usados para portegerte a tus otras plantas o incluso a ti mismo.
+ItemName.EyeOfCthulhuBossBag,Treasure Bag (Dr. Zomboss)
+ItemName.SharkBait,Gatling Peashooter
+ItemTooltip.SharkPup,Flying Gatling Pea is ready for the Air Raid...
+BuffName.SharkPup,Flying Gatling Pea
+BuffDescription.SharkPup,Summons a Flying Gatling Pea
+Achievements.EYE_ON_YOU_Description,"Derrota al Dr. Zomboss, una amenaza robótica que solo aparece de noche."

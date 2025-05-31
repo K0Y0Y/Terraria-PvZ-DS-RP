@@ -25,4 +25,5 @@
 - **Edición:** K0Y0Y
 - **Arte:** Plants vs. Zombies DS (PopCap / EA)
 - **Música:** Laura Shigihara
+- **The The Wise Willow:** The Wise Willow for allowing me to use the<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2440766780&searchtext=Colored+relics">Bosses Colored Relic</a> RP.
 - **Sprites y assets:** <a href="https://www.spriters-resource.com/">The Spriters resource</a>
