@@ -35,7 +35,7 @@ NPCName.BloodZombie,Dolphin Rider Zombie
 NPCName.UndeadMiner,Digger Zombie
 NPCName.Clown,Jack-in-the-Box Zombie
 NPCName.EyeofCthulhu,Dr. Zomboss
-NPCName.ServantofCthulhu,Zombie Head
+NPCName.ServantofCthulhu,Fireball
 NPCName.Shark,Snorkel Zombie
 ItemName.SuspiciousLookingEye,Suspicious Final Wave Flag (Dr. Zomboss's Revenge)
 ItemTooltip.SuspiciousLookingEye,"Summons Dr. Zomboss. \n ""Ready... Set... PLANT!"""
@@ -50,7 +50,7 @@ ItemName.EoCShield,Explode-O-Nut Shield
 ItemTooltip.EoCShield,Wall-nuts have hard shells which you can use to protect your other plants or even yourself.
 ItemName.EyeOfCthulhuBossBag,Treasure Bag (Dr. Zomboss)
 ItemName.SharkBait,Gatling Peashooter
-ItemTooltip.SharkPup,Flying Gatling Pea is ready for the Air Raid...
+ItemTooltip.SharkBait,Flying Gatling Pea is ready for the Air Raid...
 BuffName.SharkPup,Flying Gatling Pea
 BuffDescription.SharkPup,Summons a Flying Gatling Pea
 Achievements.EYE_ON_YOU_Description,"Defeat Dr. Zomboss, a robotic treat that only appears at night."
