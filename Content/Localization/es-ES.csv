@@ -34,23 +34,24 @@ NPCName.Drippler,Zombie Colga'o con Globo
 NPCName.BloodZombie,Zombie con Delfín
 NPCName.UndeadMiner,Zombie Picado
 NPCName.Clown,Zombie con Cajita
-NPCName.EyeofCthulhu,Dr. Zombie
+NPCName.EyeofCthulhu,Dr. Zomboss
 NPCName.ServantofCthulhu,Bola de fuego
-NPCName.Shark,Zombie Buzo
-ItemName.SuspiciousLookingEye,Bandera del Último Batallón de aspecto sospechoso (La venganza del Dr. Zombie)
-ItemTooltip.SuspiciousLookingEye,"Invoca al Dr. Zombie. \n ""Preparados... Listos... ¡A PLANTAR!"""
-ItemName.EyeofCthulhuMasterTrophy,Reliquia del Dr. Zombie
-ItemName.EyeofCthulhuTrophy,Trofeo del Dr. Zombie
-ItemName.EyeMask,Máscara del Dr. Zombie
+NPCName.Shark,Zombies Gemelos Buzos
+ItemName.SuspiciousLookingEye,Bandera del Último Batallón de aspecto sospechoso (La Venganza del Dr. Zomboss)
+ItemTooltip.SuspiciousLookingEye,"Invoca al Dr. Zomboss. \n ""Preparados... Listos... ¡A PLANTAR!"""
+ItemName.EyeofCthulhuMasterTrophy,Reliquia del Dr. Zomboss
+ItemName.EyeofCthulhuTrophy,Trofeo del Dr. Zomboss
+ItemName.EyeMask,Máscara del Dr. Zomboss
 ItemName.EyeOfCthulhuPetItem,Rabo de Gato
 ItemTooltip.EyeOfCthulhuPetItem,Invoca a un Rabo de Gato de mascota
 BuffName.EyeOfCthulhuPet,Rabo de Gato
 BuffDescription.EyeOfCthulhuPet,"""¡Guau!"" ladra Rabo de gato ""Grrr... ¡Guau, guau! ... Me niego a que me encasillen de esa manera."""
 ItemName.EoCShield,Escudo de Explotanuez
-ItemTooltip.EoCShield,Las nueces tienen caparazones duros que pueden ser usados para portegerte a tus otras plantas o incluso a ti mismo.
-ItemName.EyeOfCthulhuBossBag,Treasure Bag (Dr. Zomboss)
-ItemName.SharkBait,Gatling Peashooter
-ItemTooltip.SharkPup,Flying Gatling Pea is ready for the Air Raid...
-BuffName.SharkPup,Flying Gatling Pea
-BuffDescription.SharkPup,Summons a Flying Gatling Pea
+ItemTooltip.EoCShield,Las nueces tienen caparazones duros que pueden ser usados para porteger a tus otras plantas o incluso a ti mismo.
+ItemName.EyeOfCthulhuBossBag,Bolsa del tesoro (Dr. Zomboss)
+ItemName.SharkBait,Caso de guisantralladora
+ItemTooltip.SharkPup,Megaguisantralladora está lista para despegar...
+BuffName.SharkPup,Megaguisantralladora aérea
+BuffDescription.SharkPup,Invoca una Megaguisantralladora aérea
 Achievements.EYE_ON_YOU_Description,"Derrota al Dr. Zomboss, una amenaza robótica que solo aparece de noche."
+Achievements.EYE_ON_YOU_Name,"La venganza del Dr. Zomboss"

@@ -36,7 +36,7 @@ NPCName.UndeadMiner,Digger Zombie
 NPCName.Clown,Jack-in-the-Box Zombie
 NPCName.EyeofCthulhu,Dr. Zomboss
 NPCName.ServantofCthulhu,Fireball
-NPCName.Shark,Snorkel Zombie
+NPCName.Shark,Snorkel Twins Zombies
 ItemName.SuspiciousLookingEye,Suspicious Final Wave Flag (Dr. Zomboss's Revenge)
 ItemTooltip.SuspiciousLookingEye,"Summons Dr. Zomboss. \n ""Ready... Set... PLANT!"""
 ItemName.EyeofCthulhuMasterTrophy,Dr. Zomboss Relic
@@ -54,3 +54,4 @@ ItemTooltip.SharkBait,Flying Gatling Pea is ready for the Air Raid...
 BuffName.SharkPup,Flying Gatling Pea
 BuffDescription.SharkPup,Summons a Flying Gatling Pea
 Achievements.EYE_ON_YOU_Description,"Defeat Dr. Zomboss, a robotic treat that only appears at night."
+Achievements.EYE_ON_YOU_Name,"Dr. Zomboss Revenge"
