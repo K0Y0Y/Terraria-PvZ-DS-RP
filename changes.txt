@@ -1,0 +1,55 @@
+Zombies
+EoC => Dr. Zomboss
+Zombie => Basic Zombie
+EoC servant => Mini Fireball
+Undead Miner => Digger Zombie
+Harpy => Balloon Zombie
+The Groom => Dancer Zombie
+Doctor Bones => Ducky Tube Wall-nut Zombie
+Shark => Snorkel Zombie
+Clown => Jack-in-the-Box Zombie
+Bald Zombie => Imp Zombie
+Frozen Zombie => Zombie Bobslead Team
+Pincushion Zombie => Screen Door Zombie
+Slime Zombie => Baseball Zombie
+Swamp Zombie => Trash Can Zombie
+Twiggy Zombie => Grounded Ballon Zombie
+Female Zombie => Buckethead Zombie
+Raincoat Zombie => Drowned Ducky Tube Zombie
+Umbrella Slime => Pogo Zombie
+Eyezor => Mega gatling pea Zombie
+Spore Zombie => Peashooter Zombie & Jalapeno Zombie
+Armed Zombie => Flag Zombie
+Armed Frozen Zombie => Zomboni
+Armed Pincushion Zombie => Yeti Zombie
+Armed Slime Zombie => Catapult Zombie
+Armed Swamp Zombie => Ladder Zombie
+Armed Twiggy Zombie => Pole Vaulting Zombie
+Armed Female Zombie => Conehead Zombie
+Blood Zombie => Dolphin Rider Zombie
+Drippler => Bungee Zombie
+The Bride => Extra Zombie
+Torch Zombie => Ducky Tube Zombie (To be changed)
+Armed Torch Zombie => Football Zombie
+Maggot Zombie => Newspaper Zombie
+
+
+Shield of Chuthulu => Explosive Wall-nut
+Miner hat => Miner hat
+Inner tube => Ducky tube
+Suspicious Looking Eye (EoC Spawner) => Flag
+Angel statue => Statue of Grave buster eating angel statue
+Desert gun => Peashooter
+Fenix Blaster => Fire Peashooter
+Skeleton statue => Digger zombie
+Tree statue => Marigold statue
+Eye statue => Dr. Zomboss statue
+Sunflower statue => Sunflower statue
+EoC trophy => Dr. Zomboss trophy
+EoC mask => Dr. Zomboss mask
+Shark statue => Snorkel Zombie
+Drippler statue => Bungee Zombie catching Umbrella leaft (insolit!)
+Harpy statue => 
+
+
+
