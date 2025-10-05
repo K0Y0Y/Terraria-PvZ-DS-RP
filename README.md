@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/K0Y0Y/Terraria-PvZ-DS-RP.git">
-    <img src="Content/Images/Logo.png" alt="Logo">
+    <img src="PvZ DS RP/Content/Images/Logo.png" alt="Logo">
   </a>
 </div>
 
